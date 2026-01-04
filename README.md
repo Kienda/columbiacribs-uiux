@@ -9,7 +9,7 @@ strong emphasis on usability, clarity, and trust in student decision-making.
 
 ---
 
-## 🧠 Problem
+## Problem
 
 Columbia students often struggle to find **reliable and centralized information**
 about campus housing.
@@ -24,7 +24,7 @@ This makes it difficult for students to confidently choose housing options.
 
 ---
 
-## 💡 Solution
+## Solution
 
 ColumbiaCribs provides a structured and student-verified experience that allows users to:
 
@@ -35,7 +35,7 @@ ColumbiaCribs provides a structured and student-verified experience that allows 
 
 ---
 
-## 🎨 My Role & Contribution
+##My Role & Contribution
 
 **Role:** Lead UI/UX Designer & Brand Designer  
 **Team Size:** 4
@@ -52,7 +52,7 @@ I collaborated with teammates on ideation, feedback iterations, and usability re
 
 ---
 
-## 🧩 Key Screens
+## Key Screens
 
 Screens and UI states can be found in:
 
@@ -70,25 +70,24 @@ All screens were exported directly from Figma as **PNG** to preserve UI clarity.
 
 ---
 
-## 🔗 Figma Prototype (Interactive)
+##Figma Prototype (Interactive)
 
 View the full high-fidelity interactive prototype:
 
-👉 **Figma Embed**  
+**Figma Embed**  
 https://embed.figma.com/design/CloiEorTdQuJTFpWJaZ1IK/UID-Team-26-High-Fidelity-Design?node-id=9809-52&embed-host=share
 
 ---
 
-## 📄 Full Design Deck (PDF)
+##Full Design Deck (PDF)
 
 For a complete walkthrough of the design process and screens:
-
-📥 **Download PDF**  
+**Download PDF**  
 [UID Team 26 High Fidelity Design](docs/UID-Team-26-High-Fidelity-Design.pdf)
 
 ---
 
-## 🛠 Tools & Methods
+##Tools & Methods
 
 - Figma (UI design, prototyping, components)
 - Design systems & reusable components
@@ -97,6 +96,6 @@ For a complete walkthrough of the design process and screens:
 
 ---
 
-## 📜 License
+##License
 
 MIT License
