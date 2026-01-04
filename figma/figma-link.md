@@ -1,0 +1,1 @@
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/CloiEorTdQuJTFpWJaZ1IK/UID-Team-26-High-Fidelity-Design?node-id=9809-52&embed-host=share" allowfullscreen></iframe>
