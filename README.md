@@ -83,7 +83,7 @@ https://embed.figma.com/design/CloiEorTdQuJTFpWJaZ1IK/UID-Team-26-High-Fidelity-
 
 For a complete walkthrough of the design process and screens:  
 **Download PDF**  
-[UID Team 26 High Fidelity Design](https://raw.githubusercontent.com/Kienda/columbiacribs-uiux/main/docs/UID-Team-26-High-Fidelity-Design.pdf)
+[UID Team 26 High Fidelity Design]([UID Team 26 High Fidelity Design](./docs/UID%20Team%2026%20High%20Fidelity%20Design.pdf)
 ---
 
 ##Tools & Methods
